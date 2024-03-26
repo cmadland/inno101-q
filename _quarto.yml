@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  title: "inno101-q"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
