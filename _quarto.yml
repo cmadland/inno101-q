@@ -4,7 +4,13 @@ project:
 
 website:
   title: "inno101-q"
-
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+          - 02-u1.Rmd
+          - 03-u2.Rmd
+          - 04-u3.Rmd
 format:
   html:
     theme: cosmo
