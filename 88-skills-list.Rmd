@@ -84,7 +84,7 @@ This section provides an overview of fundamental hardware, software, and accesso
 -   Upload speed of at least 3 mbps\
 -   Ping response of less than 100ms
 
-```{block, type='feedback'}
+```{block2, type='feedback'}
 
 Test your Internet speed using [speedtest.net](speedtest.net) 
 
@@ -158,7 +158,7 @@ Some courses may require you to attend virtual class sessions, upload videos, co
 
 </details>
 
-```{block, type='feedback'}
+```{block2, type='feedback'}
 
 Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267){target="_blank"} is always available to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/){target="_blank"} website with guides on technology tools you will likely need to use. 
 ```

@@ -1,41 +1,36 @@
-# Discovering and Curating Resources 
+# Discovering and Curating Resources
 
+## Overview {.unnumbered}
 
-## Overview {-}
+In this module, we'll dive into three important aspects of utilizing digital resources effectively. Firstly, we'll explore the art of discovering and selecting valuable resources for your academic and professional needs. You'll learn how to search efficiently, critically assess sources for credibility and relevance, and fine-tune your search techniques.
 
-In this module, we'll dive into three important aspects of utilizing digital resources effectively. Firstly, we'll explore the art of discovering and selecting valuable resources for your academic and professional needs. You'll learn how to search efficiently, critically assess sources for credibility and relevance, and fine-tune your search techniques.  
+Next, we'll delve into the world of citation management. Properly citing your sources is vital in academic writing to avoid plagiarism, and we'll introduce you to various citation styles like APA, MLA, and Chicago. You'll also gain practical experience with citation management tools to help streamline the citation process and manage your references efficiently.
 
-Next, we'll delve into the world of citation management. Properly citing your sources is vital in academic writing to avoid plagiarism, and we'll introduce you to various citation styles like APA, MLA, and Chicago. You'll also gain practical experience with citation management tools to help streamline the citation process and manage your references efficiently.  
+Finally, we'll discuss the concept of openness in education. We'll explore open educational resources (OER), the benefits and challenges of open access, and the role of Creative Commons licenses in educational materials. This discussion will open your eyes to the changing landscape of educational resources and the ethics surrounding them. Throughout these topics, you'll engage in hands-on activities, group projects, and discussions to enhance your critical thinking skills and promote responsible use of digital resources.
 
-Finally, we'll discuss the concept of openness in education. We'll explore open educational resources (OER), the benefits and challenges of open access, and the role of Creative Commons licenses in educational materials. This discussion will open your eyes to the changing landscape of educational resources and the ethics surrounding them. Throughout these topics, you'll engage in hands-on activities, group projects, and discussions to enhance your critical thinking skills and promote responsible use of digital resources.  
-
-
-### Topics {-}
+### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
-1. Finding & Selecting Resources  
-2. Evaluating Resources
-2. Citation Management  
-3. Openness in Education
-  
+1.  Finding & Selecting Resources\
+2.  Evaluating Resources
+3.  Citation Management\
+4.  Openness in Education
 
-### Learning Outcomes {-}
+### Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should have made progress toward the following course outcomes:
 
-- Develop effective search strategies to locate scholarly resources using various academic databases and online repositories. 
-- Apply strategies to assess, analyse, and evaluate the reliability of resources, including reporting in the mass media. 
-- Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process. 
-- Describe the principles of openness in education, including open educational resources (OER) and open access.
-- Build and customize technology-integrated workflows to enhance and enrich your learning journey.
-- Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
+-   Develop effective search strategies to locate scholarly resources using various academic databases and online repositories.
+-   Apply strategies to assess, analyse, and evaluate the reliability of resources, including reporting in the mass media.
+-   Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process.
+-   Describe the principles of openness in education, including open educational resources (OER) and open access.
+-   Build and customize technology-integrated workflows to enhance and enrich your learning journey.
+-   Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
 
-
-### Activity Checklist {-}
+### Activity Checklist {.unnumbered}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
 
 ```{block2, type='reflect'}
 
@@ -67,12 +62,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
+### Resources {.unnumbered}
 
-
-### Resources {-}
-
-- All resources will be provided online in the unit.  
-
+-   All resources will be provided online in the unit.
 
 ## Finding and Selecting Resources
 
@@ -84,11 +76,11 @@ In the previous unit, we introduced you to Obsidian, and you are going to contin
 
 We recognize that we are introducing several tools to you, and that may feel overwhelming, however, there are no tools that do everything that you need to do, and if a tool claims to be able to do everything, it likely does only a few things well, and the rest is poorly implemented.
 
-### Finding Resources {-}
+### Finding Resources {.unnumbered}
 
 Litmaps is a web app that you can use to build a map of the literature regarding your topic. For now, presume that you need to write a paper on transformational servant leadership. That is a very broad topic, and you are only beginning to learn about it, so you need to start by doing some reading...but what should you read? Your instructor might have given you an article to read, or there are likely some good articles published on your course syllabus, but you might also have to start on your own. Here is how.
 
-#### Find a Literature Review {-}
+#### Find a Literature Review {.unnumbered}
 
 When academics begin writing a research paper, they always start by reviewing what is already known about a subject, in this case, transformational servant leadership. This is called a literature review, and you can often find a section called "Literature Review" at the beginning of every article you read. Sometimes, though, the whole research article will be a literature review. Reviewing the literature in this way is sometimes called a systematic review, or maybe a scoping review. These approaches to lit reviews have different foci, but the intent is to publish an article that follows very specific procedures so that other researchers or learners can confirm the process. These types of reviews are very useful in getting started in a new topic.
 
@@ -98,18 +90,18 @@ One of the quickest ways to get started on a search is to use [Google Scholar (s
 
 The top result, shows some promise though. Notice a few things about it.
 
-- it has all your key words right in the title - that's good
-- it has over 2700 citations (that's very good)
-- it was published in 2004 (that's not great...it's old)
+-   it has all your key words right in the title - that's good
+-   it has over 2700 citations (that's very good)
+-   it was published in 2004 (that's not great...it's old)
 
 One of the easiest ways to find literature reviews in Google searches is to include 'literature review' in your search. When we do that, we get a better list. This time, there are more results (97,000), but they are better results. Notice the third item...
 
 ![Screenshot of the results page of a Google Scholar search for "Transformational servant leadership literature review"](assets/u2/google-search2.png)
 
-- all your keywords
-- lots of citations
-- much more recent (2019)
-- AND it is a systematic review
+-   all your keywords
+-   lots of citations
+-   much more recent (2019)
+-   AND it is a systematic review
 
 This is the only article you need for now. Click the link.
 
@@ -119,7 +111,7 @@ In fact, you don't even need to read this article yet. All you need is the DOI -
 
 Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
-#### Log in to Litmaps.com {-}
+#### Log in to Litmaps.com {.unnumbered}
 
 [Link to LitMaps](https://litmaps.com)
 
@@ -171,11 +163,9 @@ To add an input article, click on it in the map or list and choose 'Add to Searc
 
 Notice that this search turned up another impactful article. Make sure to add that to your list!
 
-
 ![Screenshot of the Litmaps.com seed map](assets/u2/litmaps12.png)
 
 Click 'Your Library' and choose the library you just created. There should be 8 or so references in the library. This is likely enough to synthesize into a short paper, but some disciplines may require more. Select all of the items in the library by clicking the checkbox that says '0 Selected'. Then click the 'Export' icon on the right side of the screen.
-
 
 ![Screenshot of the Litmaps.com seed map](assets/u2/litmaps13.png)
 
@@ -183,16 +173,15 @@ Choose 'RIS' in the dropdown, then click 'Download'.
 
 ![Screenshot of the Litmaps.com seed map](assets/u2/litmaps14.png)
 
-For more tutorials on using Litmaps, search online.  For example, The [Litmaps YouTube channel](https://www.youtube.com/@litmaps){target="_blank"} has some helpful videos.
+For more tutorials on using Litmaps, search online. For example, The [Litmaps YouTube channel](https://www.youtube.com/@litmaps){target="_blank"} has some helpful videos.
 
+::: video-container
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QTIZxc3BaGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
-<div class ="video-container">
+</iframe>
+:::
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QTIZxc3BaGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-### Activity: Using Litmaps  {-}
+### Activity: Using Litmaps {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -222,8 +211,7 @@ For more tutorials on using Litmaps, search online.  For example, The [Litmaps Y
 
 ```
 
-
-### Activity: The TWU Library {-}
+### Activity: The TWU Library {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -242,8 +230,7 @@ See if you can find the answer to the following questions:
 
 ```
 
-
-### Activity: Advanced Search {-}
+### Activity: Advanced Search {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -267,7 +254,7 @@ In this activity, you will select two open resources using the Google advanced s
 
 ```
 
-### Activity: Database search {-}
+### Activity: Database search {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -306,17 +293,13 @@ How was your progress with this activity? Feel free to share your thoughts in Ob
 
 ## Evaluating Resources
 
-A key part of finding and selecting resources is evaluating the resource. There is a great deal of information available on the Internet. Some of it is very credible and useful. However, there is a lot of misinformation and poorly researched information online too. As you become more skilled at academic online searching and locating materials you will become quicker at determining what information is useful and credible. 
+A key part of finding and selecting resources is evaluating the resource. There is a great deal of information available on the Internet. Some of it is very credible and useful. However, there is a lot of misinformation and poorly researched information online too. As you become more skilled at academic online searching and locating materials you will become quicker at determining what information is useful and credible.
 
-So how do you evaluate the sources to ensure you are using credible sources?  The following technique called, the CRAAP test, will help you evaluate the sources you find.
+So how do you evaluate the sources to ensure you are using credible sources? The following technique called, the CRAAP test, will help you evaluate the sources you find.
 
-C - Currency
-R - Relevance
-A - Authority
-A - Accuracy
-P – Purpose
+C - Currency R - Relevance A - Authority A - Accuracy P – Purpose
 
-### Activity: Using the CRAAP Test {-}
+### Activity: Using the CRAAP Test {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -337,8 +320,7 @@ After completing the activity above, consider the following questions:
 
 ```
 
-
-### Reliability of Wikipedia {-}  
+### Reliability of Wikipedia {.unnumbered}
 
 Wikipedia is the free online encyclopedia created through collaborative effort of contributors from around the globe. Wikipedia is one of the most popular websites in the world. When conducting general Internet searches, Wikipedia articles will frequently be listed in the top results.
 
@@ -346,7 +328,7 @@ Anyone registered on the Wikipedia site can create a new article page. Anyone ca
 
 There have been a number of studies examining the accuracy of Wikipedia articles. Notwithstanding the outcomes of these studies, many educational institutions will not accept the use of Wikipedia as a credible source for academic writing and research. In this section we invite learners to evaluate whether Wikipedia is a trustworthy resource and to form a justified opinion on its use as a reliable resource for academic writing.
 
-### Activity: Wikipedia: Why or Why Not? {-}
+### Activity: Wikipedia: Why or Why Not? {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -379,8 +361,7 @@ Drawing on your study of the reliability and credibility of online resources sha
 
 ```
 
-
-
+```{=html}
 <!--
 
 adding content...
@@ -430,25 +411,20 @@ Alternative Views
 
 
 -->
-
-
-
-
+```
 ## Reference Management
 
 Now that you have a handful of references to keep track of, it's time to get started with Zotero to help you manage your references. I promise that learning to use a reference manager like Zotero will save you MANY hours per semester, and likely days or weeks over the course of your degree. Do *Future You* a huge favour and get in this habit now.
 
 Before you explore the next essential tool, watch [Benefits of Using Citation Management Tools](https://www.youtube.com/watch?v=sy9PVZAbSAQ){target="_blank"}
 
+::: video-container
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
-<div class ="video-container">
+</iframe>
+:::
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-
-### Download and Install Zotero {-}
+### Download and Install Zotero {.unnumbered}
 
 The RIS file you exported from LitMaps isn't going to be very useful unless you have software that can read it properly. Your best option is Zotero as it is free and open source and has a good number of plugins and integrations you can use to connect with other apps.
 
@@ -456,15 +432,15 @@ Go to [zotero.org](https://zotero.org){target="_blank"} and click the red 'Downl
 
 Once you have installed Zotero, there are some plugins that will help you in your studies. These are listed below with links to instructions on how to install and configure the plugin.
 
-1. [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile){target="_blank"} - allows you to find and manage PDFs in your Zotero library
-2. [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing){target="_blank"} - automatically update citation counts for items in your library
-3. [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
+1.  [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile){target="_blank"} - allows you to find and manage PDFs in your Zotero library
+2.  [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing){target="_blank"} - automatically update citation counts for items in your library
+3.  [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
 
 Now that you have Zotero ready to go, it's time to import your first references. Find the 'untitled.ris' file in your downloads folder and double-click it to open. You might have to confirm that you want to open with Zotero.
 
 Keep in mind that each journal system will name the downloaded file differently, but they should all end in .ris.
 
-### Zotero and the Library {-}
+### Zotero and the Library {.unnumbered}
 
 LitMaps is not the only way that you can connect to Zotero. You can also export items directly from a search in the library databases.
 
@@ -484,7 +460,7 @@ You might get a message to install the Zotero Connector in your browser, go ahea
 
 From here on to the day you graduate with your BA, then your MA, and finally your PhD, Zotero will be with you and you may find yourself using it every day. I (Colin) am finishing my PhD, and Zotero is ALWAYS open on my computer. It is absolutely indispensible.
 
-### Activity: Using Zotero {-}
+### Activity: Using Zotero {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -536,61 +512,57 @@ Now that you have connected LitMaps to Zotero, let's explore how to use Zotero i
 
 ```
 
-
 ## Openness in Education
 
-At this point in the unit you have used various tools to discover and curate resources.  In this topic we would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
+At this point in the unit you have used various tools to discover and curate resources. In this topic we would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
 
-<iframe src="https://player.vimeo.com/video/557927481?h=726585dd92" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/557927481?h=726585dd92" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
+
+</iframe>
+
 <p><a href="https://vimeo.com/557927481">Open Access Explained</a> from <a href="https://vimeo.com/user17299535">OER Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 And here is an article you can read (for free) from the British organization Wonkhe.
 
-<iframe src="https://wonkhe.com/blogs/intro-to-open-access/" width="700" height="800"></iframe>
+<iframe src="https://wonkhe.com/blogs/intro-to-open-access/" width="700" height="800">
 
-
+</iframe>
 
 OER, or Open Educational Resources, refers to freely accessible and openly licensed educational materials that can be used, shared, and modified without cost. These resources include a variety of digital assets, such as textbooks, lecture notes, multimedia content, and assessment tools. The key features of OER include their open licenses, which typically allow users to ***retain, reuse, revise, remix***, and ***redistribute*** the content.
 
-### The 5 R's of Openess {-}  
+### The 5 R's of Openess {.unnumbered}
 
-**Retain**
-the right to make, own, and control copies of the content
+**Retain** the right to make, own, and control copies of the content
 
-**Reuse**
-the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+**Reuse** the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
 
-**Revise**
-the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+**Revise** the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
 
-**Remix**
-the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
+**Remix** the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
 
-**Redistribute**
-the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend) 
+**Redistribute** the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
 
-*This material was created by David Wiley and published freely under a Creative Commons Attribution 4.0 license. [Source](http://opencontent.org/blog/archives/3221){target="_blank"}
-
+\*This material was created by David Wiley and published freely under a Creative Commons Attribution 4.0 license. [Source](http://opencontent.org/blog/archives/3221){target="_blank"}
 
 Why use OER? The usefulness of OER in higher education can be attributed to several compelling reasons:
 
-- **Affordability**: OER mitigates financial barriers for students by providing access to educational materials at no cost. This is particularly significant as the high cost of traditional textbooks and learning resources can be a substantial financial burden for students.  
+-   **Affordability**: OER mitigates financial barriers for students by providing access to educational materials at no cost. This is particularly significant as the high cost of traditional textbooks and learning resources can be a substantial financial burden for students.
 
-- **Accessibility**: OER promotes equitable access to educational content globally. Anyone with an internet connection can benefit from OER, fostering inclusivity and addressing issues of accessibility in higher education.
+-   **Accessibility**: OER promotes equitable access to educational content globally. Anyone with an internet connection can benefit from OER, fostering inclusivity and addressing issues of accessibility in higher education.
 
-- **Customized Learning Materials**: Instructors can tailor OER to align seamlessly with course requirements, creating a personalized learning experience for students.
+-   **Customized Learning Materials**: Instructors can tailor OER to align seamlessly with course requirements, creating a personalized learning experience for students.
 
-- **Community Collaboration**: OER encourages collaborative knowledge-sharing among educators and students, fostering a sense of shared learning within the academic community.
+-   **Community Collaboration**: OER encourages collaborative knowledge-sharing among educators and students, fostering a sense of shared learning within the academic community.
 
-- **Current and Relevant Content: OER's adaptable nature facilitates easy updates, ensuring educational materials reflect the latest advancements, providing students with up-to-date information.  
+-   \*\*Current and Relevant Content: OER's adaptable nature facilitates easy updates, ensuring educational materials reflect the latest advancements, providing students with up-to-date information.
 
-- **Global Perspectives: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.
+-   \*\*Global Perspectives: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.
 
-- **Ethical Usage: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.
+-   \*\*Ethical Usage: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.
 
 In summary, OER offers a cost-effective, flexible, and collaborative approach to educational resource development, making it a valuable and impactful asset in higher education. Its adoption aligns with the broader goals of enhancing accessibility, affordability, and inclusivity in the learning experience.
 
-### Activity: Finding OERs {-}
+### Activity: Finding OERs {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -600,7 +572,7 @@ In your Obsidian Learning Journal, create an entry about an OER resource you fou
 
 ```
 
-### Activity: Advocating for OER {-}
+### Activity: Advocating for OER {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -618,7 +590,7 @@ Watch [A Review of the Effectiveness & Perceptions of Open Educational Resources
 
 ```
 
-### Activity: Reflecting on Your Resource {-}
+### Activity: Reflecting on Your Resource {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -644,10 +616,9 @@ Note that this reflection can be uses for your assessment in this course.
 
 ```
 
+### Activity: Annotated Bibliography {.unnumbered}
 
-### Activity: Annotated Bibliography {-}
-
-```{block2, type='reflect'} 
+```{block2, type='reflect'}
 
 In this activity you will create an annotated bibliography related to a research topic of your choice. 
 
@@ -675,15 +646,13 @@ Next, create an annotated bibliography in Obsidian for two sources which must in
 
 ```
 
-
-## Summary {-}
+## Summary {.unnumbered}
 
 In this unit, you have had the opportunity to develop crucial skills for navigating the digital resource landscape. You are now able to effectively find and evaluate resources, manage citations, and understand the importance of openness in education. These skills will enhance your ability to use digital resources for academic and professional growth responsibly and effectively.
 
 In addition, exploring Openness in Education broadened your understanding of the transformative power of freely accessible educational resources. By delving into the principles of open educational resources (OER) and open access, we hope to have conveyed their significance in making education more accessible. This newfound awareness not only empowers you as a learner but also places you in a role as a contributor to a global academic community. As you conclude this unit with refined skills in resource navigation, citation management, and a deeper appreciation for openness in education, you are well-equipped to responsibly and effectively leverage digital resources for ongoing academic and professional growth. These skills are not just tools for immediate success but enduring assets, shaping your lifelong journey in the ever-evolving realm of digital knowledge.
 
-
-## Assessment {-}
+## Assessment {.unnumbered}
 
 ```{block2, type='assessment'}
 
@@ -695,8 +664,7 @@ All assignment details, including the grading rubrics, are located in the Assess
 
 ```
 
-
-## Checking your Learning {-}
+## Checking your Learning {.unnumbered}
 
 ```{block2, type='progress'}
 
@@ -712,4 +680,3 @@ Before you move on to the next unit, check that you are able to:
 
 
 ```
-

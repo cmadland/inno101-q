@@ -595,7 +595,7 @@ Have you seen a fake account on social media? What clues did you have that it wa
 
 ```
 
-```{block, type='feedback'}
+```{block2, type='feedback'}
 
 Sidenote: If interested, search on X for some parody accounts.  Some can be quite entertaining, but you might notice that other accounts simply mock the person they are parodying.  Would you create a parody account in order to ridicule someone - or perhaps a political view you don't agree with?  What should our response be to such messages on social media?  How can we promote inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
 

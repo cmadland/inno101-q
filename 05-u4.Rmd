@@ -81,7 +81,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - All resources will be provided online in the unit.  
 
-```{block, type='feedback'}
+```{block2, type='feedback'}
 ***Resource Reminders***  
 
 - Don't forget to add resources to your Zotero library that align with your individual learning path.  

@@ -16,6 +16,10 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
+# md:
+#    variant: gfm
 
