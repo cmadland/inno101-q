@@ -75,7 +75,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ### Activity: Why TWU? {.unnumbered}
 
-```{block2, type='reflect'}
+
 
 Before we dive in to some digital tools you may use in your academic studies at Trinity, let's pause and think about what TWU means to you.  Why did you choose TWU?  What do you hope to achieve during your time here?
 
