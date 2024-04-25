@@ -4,22 +4,22 @@ project:
 
 website:
   title: "inno101-q"
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-          - 02-u1.Rmd
-          - 03-u2.Rmd
-          - 04-u3.Rmd
+#  sidebar:
+#    style: "docked"
+#    search: true
+#    contents:
+#          - 02-u1.Rmd
+#          - 03-u2.Rmd
+#          - 04-u3.Rmd
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-  docx:
-    toc: true
-    number-sections: true
-    highlight-style: github
+#  docx:
+#    toc: true
+#    number-sections: true
+#    highlight-style: github
 # md:
 #    variant: gfm
 
